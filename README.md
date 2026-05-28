@@ -1,6 +1,6 @@
 # PriceSense
 ### A SQL-Driven Pricing Intelligence Framework
-**E-Cell IIT Guwahati | Summer Projects 2026**
+
 
 ---
 
