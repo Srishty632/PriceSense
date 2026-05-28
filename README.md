@@ -27,7 +27,7 @@ across 5 datasets.
 
 ## Notebook
 Full analysis with markdown documentation:
-[Kaggle Notebook](paste your kaggle notebook URL here)
+[Kaggle Notebook](https://www.kaggle.com/code/srishtyvidyarthi/notebook124cda9b4c)
 
 ## Dataset
 50,150 transactions · 5,000 buyer profiles · 150 products · 
